@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hemant/NewsApp-in-React/static/css/main.81df577f.css",
+    "main.js": "/Hemant/NewsApp-in-React/static/js/main.10fa50be.js",
+    "static/js/453.b2157c12.chunk.js": "/Hemant/NewsApp-in-React/static/js/453.b2157c12.chunk.js",
+    "static/media/logo.png": "/Hemant/NewsApp-in-React/static/media/logo.fab11eaf33a70fecd045.png",
+    "index.html": "/Hemant/NewsApp-in-React/index.html",
+    "main.81df577f.css.map": "/Hemant/NewsApp-in-React/static/css/main.81df577f.css.map",
+    "main.10fa50be.js.map": "/Hemant/NewsApp-in-React/static/js/main.10fa50be.js.map",
+    "453.b2157c12.chunk.js.map": "/Hemant/NewsApp-in-React/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81df577f.css",
+    "static/js/main.10fa50be.js"
+  ]
+}
